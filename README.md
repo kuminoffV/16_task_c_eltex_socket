@@ -2,9 +2,9 @@
 
 Что готово:
 
-Первое задание:
-&nbsp;task_1: Локальный эхо-сервер SOCK_STREAM (TCP)
-task_2: Сетевой эхо-сервер SOCK_STREAM (TCP)
+Первое задание:\ 
+task_1: Локальный эхо-сервер SOCK_STREAM (TCP)\ 
+task_2: Сетевой эхо-сервер SOCK_STREAM (TCP)\ 
 task_3: Локальный эхо-сервер SOCK_DGRAM (UDP)
 task_4: Сетевой эхо-сервер SOCK_DGRAM (UDP)
 
